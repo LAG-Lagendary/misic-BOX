@@ -1,6 +1,3 @@
-Hello, I am very glad that you are interested in my idea and you write me messages. You support me. I was asked to present a detailed vision of the project and tried to form the text of the markdown file. Can you tell me if this looks feasible? I had a problem: I have Debian, and when I launched MuseScore and Audiveris at the same time, the system crashed. I need to figure out how to implement it and possibly make the background programs easier, as the system still crashes if they don't complete the job.
-
-
 Draft Plan
 
 Modular Structure
